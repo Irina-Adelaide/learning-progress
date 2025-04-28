@@ -11,5 +11,4 @@ _Main topics: Python basics, variables, functions, data types, conditions and co
 ## Next Goals
 
 -[] **Python**-*Kaggle*
-- View certificate: [Click here to view the certificate](Irina Yatskova - Intro to Programming Certificate 1.png)
-  
+[Click here to view the certificate](Irina Yatskova - Intro to Programming Certificate 1.png)
