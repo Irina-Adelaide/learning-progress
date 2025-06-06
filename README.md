@@ -16,3 +16,8 @@ _Main topics: functions, booleans and conditionals, lists, tuples, loops, string
 Certificate: ![Irina Yatskova - Python Certificate 2](https://github.com/user-attachments/assets/cdc2543c-f9a0-44b7-bfcf-153a898351f5)
 
 ---
+
+✔**Intro to Machine Learning** - Kaggle
+_Finished: June 06, 2025_
+_Main topics: how models work (improving the decision tree), basic data exploration (pandas), interpreting data description, your first machine learning model (selecting data, handling missing values, selecting prediction target and features, building your model), model validation, underfitting and overfitting, Random Forests, scikit-learn._
+Certificate: 
