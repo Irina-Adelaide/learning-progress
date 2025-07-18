@@ -57,3 +57,4 @@ _Finished: July 18, 2025_
 _Main topics: image representation; convolutional filters; activation functions; pooling layers; padding and strides; convolutional neural networks (CNNs); model training; data preprocessing & augmentation; transfer learning; batch normalization & dropout; performance evaluation._
 
 **Certificate:** 
+![Irina Yatskova - Computer Vision.png](https://github.com/Irina-Adelaide/learning-progress/blob/main/Irina%20Yatskova%20-%20Computer%20Vision.png)
