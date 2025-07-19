@@ -54,7 +54,7 @@ _Tools used: Python, Keras, TensorFlow, Pandas, Scikit-learn, Matplotlib_
 
 _Finished: July 18, 2025_
 
-_Main topics: convolutional classifier; convolutional filters; activation functions; pooling layers; translation invariance; padding and strides; convolutional neural networks (CNNs); designing your own convnet; model training; data preprocessing & augmentation; transfer learning; batch normalization & dropout; performance evaluation._
+_Main topics: convolutional classifier;  transfer learning; optimizer, loss and metrics; convolutional filters; activation functions; pooling layers; translation invariance; padding and strides; convolutional neural networks (CNNs); designing your own convnet; model training; data preprocessing & augmentation; batch normalization & dropout; performance evaluation._
 
 _Practical skills gained: using modern deep-learning networks to build an image classifier with Keras; Designing my own custom convnet with reusable blocks; Learning the fundamental ideas behind visual feature extraction; Mastering the art of transfer learning to boost my models; Utilizing data augmentation to extend my dataset_
 
