@@ -43,7 +43,7 @@ _Finished: July 02, 2025_
 
 _Main topics: building and training neural networks; regression and binary classification; cross-entropy, MAE, accuracy metrics; preventing overfitting with EarlyStopping; data preprocessing with pipelines and imputers; visualizing training progress; working with Keras models and activations; confident predictions and threshold tuning._
 
-_Tools used: Python, Keras, TensorFlow, pandas, scikit-learn, matplotlib_
+_Tools used: Python, Keras, TensorFlow, Pandas, Scikit-learn, Matplotlib_
 
 **Certificate:** 
 ![Intro to Deep Learning Certificate 4](https://raw.githubusercontent.com/Irina-Adelaide/learning-progress/6af006561b4aee7a20669fc8f75ee97ffe624c99/Irina%20Yatskova%20-%20Intro%20to%20Deep%20Learning.png)
@@ -54,7 +54,9 @@ _Tools used: Python, Keras, TensorFlow, pandas, scikit-learn, matplotlib_
 
 _Finished: July 18, 2025_
 
-_Main topics: image representation; convolutional filters; activation functions; pooling layers; padding and strides; convolutional neural networks (CNNs); model training; data preprocessing & augmentation; transfer learning; batch normalization & dropout; performance evaluation._
+_Main topics: convolutional classifier; convolutional filters; activation functions; pooling layers; translation invariance; padding and strides; convolutional neural networks (CNNs); designing your own convnet; model training; data preprocessing & augmentation; transfer learning; batch normalization & dropout; performance evaluation._
+
+_Practical skills gained: using modern deep-learning networks to build an image classifier with Keras; Designing my own custom convnet with reusable blocks; Learning the fundamental ideas behind visual feature extraction; Mastering the art of transfer learning to boost my models; Utilizing data augmentation to extend my dataset_
 
 **Certificate:** 
 ![Irina Yatskova - Computer Vision.png](https://github.com/Irina-Adelaide/learning-progress/blob/main/Irina%20Yatskova%20-%20Computer%20Vision.png)
