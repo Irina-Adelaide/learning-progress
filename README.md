@@ -71,3 +71,6 @@ _Main topics: getting started with SQL and BigQuery; Select, From, Where; Group 
 
 **Certificate:** 
 Irina Yatskova - Intro to SQL.png
+![Irina Yatskova - Intro to SQL.png](https://github.com/Irina-Adelaide/learning-progress/blob/30ed7f40babd5434a7e906a54dacf4aa1c7fc562/Irina%20Yatskova%20-%20Intro%20to%20SQL.png)
+
+---
