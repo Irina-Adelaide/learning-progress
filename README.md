@@ -60,3 +60,14 @@ _Practical skills gained: using modern deep-learning networks to build an image 
 
 **Certificate:** 
 ![Irina Yatskova - Computer Vision.png](https://github.com/Irina-Adelaide/learning-progress/blob/main/Irina%20Yatskova%20-%20Computer%20Vision.png)
+
+---
+
+✔**Intro to SQL** - Kaggle
+
+_Finished: September 19, 2025_
+
+_Main topics: getting started with SQL and BigQuery; Select, From, Where; Group By, Having, Count; Order By; As & With; Joining data._
+
+**Certificate:** 
+Irina Yatskova - Intro to SQL.png
